@@ -1,0 +1,11 @@
+*{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;}
+body {padding: 20px 0px 0px 40px;
+      background-color: #6548d9;}
+img {
+    width: 260px;
+    height: 260px;
+}
+button {
+    color: black;
+}
